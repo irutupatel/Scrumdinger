@@ -32,7 +32,7 @@ struct ScrumsView: View {
 
 struct ScrumsView_Previews: PreviewProvider {
     static var previews: some View {
-        NavigationView{
+        NavigationView {
             ScrumsView(scrums: DailyScrum.sampleData)
         }
     }
