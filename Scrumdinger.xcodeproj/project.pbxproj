@@ -140,7 +140,6 @@
 				51967A2329DB849800977DE6 /* CardView.swift */,
 				51A8CAE629DDEFEF00E8A106 /* DetailEditView.swift */,
 				5129C7B629DCAAA4003646DF /* DetailView.swift */,
-				516F57E529E4B80E00E5DC28 /* History.swift */,
 				51AE07FF29E0D12600C248E2 /* MeetingFooterView.swift */,
 				51AE07F229E0917C00C248E2 /* MeetingHeaderView.swift */,
 				519679F329DB4CB300977DE6 /* MeetingView.swift */,
@@ -154,7 +153,6 @@
 				51967A1C29DB81AA00977DE6 /* Models */,
 				516FC27429DF438F0082F482 /* Preview Content */,
 				51AE07F429E0964800C248E2 /* Resources */,
-				51B3BA0029E6183C001CAECC /* ScrumStore.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -179,10 +177,12 @@
 		51967A1C29DB81AA00977DE6 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				51967A1D29DB81C800977DE6 /* Theme.swift */,
-				51967A1F29DB82ED00977DE6 /* DailyScrum.swift */,
-				51AE07F929E0CE4A00C248E2 /* ScrumTimer.swift */,
 				51AE07FB29E0CE7B00C248E2 /* AVPlayer+Ding.swift */,
+				51967A1F29DB82ED00977DE6 /* DailyScrum.swift */,
+				516F57E529E4B80E00E5DC28 /* History.swift */,
+				51B3BA0029E6183C001CAECC /* ScrumStore.swift */,
+				51AE07F929E0CE4A00C248E2 /* ScrumTimer.swift */,
+				51967A1D29DB81C800977DE6 /* Theme.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
