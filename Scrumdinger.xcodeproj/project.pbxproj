@@ -29,6 +29,7 @@
 		51AE07FA29E0CE4A00C248E2 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51AE07F929E0CE4A00C248E2 /* ScrumTimer.swift */; };
 		51AE07FC29E0CE7B00C248E2 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51AE07FB29E0CE7B00C248E2 /* AVPlayer+Ding.swift */; };
 		51AE080029E0D12600C248E2 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51AE07FF29E0D12600C248E2 /* MeetingFooterView.swift */; };
+		51B3BA0129E6183C001CAECC /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3BA0029E6183C001CAECC /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		51AE07F929E0CE4A00C248E2 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		51AE07FB29E0CE7B00C248E2 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		51AE07FF29E0D12600C248E2 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
+		51B3BA0029E6183C001CAECC /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				51967A1C29DB81AA00977DE6 /* Models */,
 				516FC27429DF438F0082F482 /* Preview Content */,
 				51AE07F429E0964800C248E2 /* Resources */,
+				51B3BA0029E6183C001CAECC /* ScrumStore.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				5102468329DE136400A79D1F /* ThemePicker.swift in Sources */,
 				51AE07F829E0A27100C248E2 /* ScrumProgressViewStyle.swift in Sources */,
 				51AE07FA29E0CE4A00C248E2 /* ScrumTimer.swift in Sources */,
+				51B3BA0129E6183C001CAECC /* ScrumStore.swift in Sources */,
 				51967A2029DB82ED00977DE6 /* DailyScrum.swift in Sources */,
 				51AE07FC29E0CE7B00C248E2 /* AVPlayer+Ding.swift in Sources */,
 				51AE080029E0D12600C248E2 /* MeetingFooterView.swift in Sources */,
